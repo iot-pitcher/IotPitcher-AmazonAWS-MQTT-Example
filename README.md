@@ -44,6 +44,11 @@ This project is provided as an example to show capabilites of IotPitcher. Config
 
 In order to see how to use Amazon AWS for MQTT communication also see [Amazon AWS Esp32](https://aws.amazon.com/tr/blogs/compute/building-an-aws-iot-core-device-using-aws-serverless-and-an-esp32/)
 
+
+![Main page](img1.jpeg)
+
+![Configuration page](img2.jpeg)
+
 ![LoRa Chip](https://iotpitcher.com/wp-content/uploads/2021/02/IMG_20210207_145156-scaled.jpg)
 
 For more info please visit [IotPitcher](https://www.iotpitcher.com/)

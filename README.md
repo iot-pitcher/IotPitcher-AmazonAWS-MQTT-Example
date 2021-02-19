@@ -42,6 +42,7 @@ pitcher_start();
 
 This project is provided as an example to show capabilites of IotPitcher. Configuration page contains user defined variables and LoRa communication configurations. With the help of IotPitcher you can create a generic application for different configurations and you do not need to change your code. With your smartphone or computer just connect to IotPitcher AP and change configurations!
 
+In order to see how to use Amazon AWS for MQTT communication also see [Amazon AWS Esp32](https://aws.amazon.com/tr/blogs/compute/building-an-aws-iot-core-device-using-aws-serverless-and-an-esp32/)
 
 ![LoRa Chip](https://iotpitcher.com/wp-content/uploads/2021/02/IMG_20210207_145156-scaled.jpg)
 
